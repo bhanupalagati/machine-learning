@@ -1,0 +1,9 @@
+This is the must in order to know how the below code get organised
+
+
+You will see lot of Folders here. Each folder is the implementation of a seperate MACHINE LEARNING ALGORITHM.
+
+once you will get into each folder you will see a python file implenting that particular algorthm on the data provided from the file specified 
+there 
+
+The folder name specifies the algorithm
