@@ -1,0 +1,12 @@
+This section is filled with the clustering algorithms
+
+we have two main clustering algorithms. they are
+k-means clustering :
+       here we will start from the zero clusters and we will go until where we are getting the best results. you have to specify the number 
+       of clusters by yourself.
+       
+       
+hierarchical clustering  :
+       it will use some predefined methods to find out the best fitting clusters. this will start from n and reduce to the best fit among 
+       others
+       
